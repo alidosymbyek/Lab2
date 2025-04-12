@@ -1,0 +1,10 @@
+com.example.chatlibrary
+id messageCard
+id messageInput
+id messageInputLayout
+id messageText
+id messagesRecyclerView
+id sendButton
+id timestampText
+layout activity_chat
+layout item_message

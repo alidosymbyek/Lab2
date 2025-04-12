@@ -1,0 +1,11 @@
+R_DEF: Internal format may change without notice
+local
+id messageCard
+id messageInput
+id messageInputLayout
+id messageText
+id messagesRecyclerView
+id sendButton
+id timestampText
+layout activity_chat
+layout item_message
